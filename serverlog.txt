@@ -1,0 +1,102 @@
+[37] [WNG] Client at IP 127.0.0.1 not connected, reason: SERVER FULL.
+[38] [WNG] Client at IP 127.0.0.1 not connected, reason: SERVER FULL.
+[39] [WNG] Client at IP 127.0.0.1 not connected, reason: SERVER FULL.
+
+----------------------------------------------------------------
+Log started at: 04-04-23, 13:08:31
+[1] [OKK] Server listening at 127.0.0.1:8000
+[2] [WNG] Server started in debug mode.
+[3] [INF] Hi from logic thread
+[4] [INF] 1
+[5] [INF] 1
+[6] [INF] 1
+[7] [INF] 1
+[8] [INF] 1
+[9] [INF] 1
+[10] [INF] 1
+[11] [INF] 1
+[12] [INF] 1
+[13] [INF] 1
+[14] [INF] Bye from logic thread
+
+----------------------------------------------------------------
+Log started at: 04-04-23, 13:09:46
+[1] [OKK] Server listening at 127.0.0.1:8000
+[2] [WNG] Server started in debug mode.
+[3] [INF] Hi from logic thread
+[4] [INF] Bye from logic thread
+[5] [INF] Client 127.0.0.1:710 connected.
+[6] [INF] Message from client 1: login
+[7] [INF] Message from client 1: login
+[8] [INF] Message from client 1: login
+[9] [INF] Message from client 1: login
+[10] [INF] Message from client 1: login
+[11] [INF] Message from client 1: login
+[12] [INF] Message from client 1: login
+[13] [INF] Message from client 1: login
+[14] [INF] Message from client 1: login
+[15] [INF] Message from client 1: login
+[16] [INF] Message from client 1: login
+[17] [INF] Message from client 1: login
+[18] [INF] Client 1 disconnected 
+[19] [INF] Client 127.0.0.1:966 connected.
+[20] [INF] Message from client 2: login
+[21] [INF] Message from client 2: A
+[22] [INF] Message from client 2: A
+[23] [INF] Message from client 2: A
+[24] [INF] Message from client 2: A
+[25] [INF] Message from client 2: A
+[26] [INF] Message from client 2: A
+[27] [INF] Message from client 2: A
+[28] [INF] Message from client 2: A
+[29] [INF] Message from client 2: A
+[30] [INF] Message from client 2: A
+[31] [INF] Message from client 2: A
+[32] [INF] Message from client 2: A
+[33] [INF] Message from client 2: A
+[34] [INF] Message from client 2: A
+[35] [INF] Message from client 2: A
+[36] [INF] Message from client 2: A
+[37] [INF] Message from client 2: A
+[38] [INF] Message from client 2: A
+[39] [INF] Message from client 2: A
+[40] [INF] Message from client 2: A
+[41] [INF] Message from client 2: A
+[42] [INF] Client 2 disconnected 
+[43] [INF] Client 127.0.0.1:1222 connected.
+[44] [INF] Message from client 3: login
+[45] [INF] Message from client 3: login
+[46] [INF] Client 3 disconnected 
+[47] [INF] Client 127.0.0.1:1478 connected.
+[48] [INF] Message from client 4: login
+[49] [INF] Message from client 4: A
+[50] [INF] Message from client 4: A
+[51] [INF] Message from client 4: A
+[52] [INF] Client 4 disconnected 
+
+----------------------------------------------------------------
+Log started at: 04-04-23, 13:11:06
+[1] [OKK] Server listening at 127.0.0.1:8000
+[2] [WNG] Server started in debug mode.
+[3] [INF] Hi from logic thread
+[4] [INF] Bye from logic thread
+[5] [INF] Client 127.0.0.1:1990 connected.
+[6] [INF] Message from client 1: login
+[7] [INF] Message from client 1: A
+[8] [INF] Client 1 disconnected 
+
+----------------------------------------------------------------
+Log started at: 04-04-23, 13:17:37
+[1] [OKK] Server listening at 127.0.0.1:8000
+[2] [WNG] Server started in debug mode.
+[3] [INF] Hi from logic thread
+[4] [INF] Bye from logic thread
+
+----------------------------------------------------------------
+Log started at: 04-04-23, 13:33:57
+[1] [OKK] Server listening at 127.0.0.1:8000
+[2] [WNG] Server started in debug mode.
+[3] [INF] Hi from logic thread
+[4] [INF] Bye from logic thread
+[5] [INF] Client 127.0.0.1:11974 connected.
+[6] [INF] Message from client 1: login
